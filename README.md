@@ -27,3 +27,22 @@ I will Perform the statistical analysis to answer the following questions using 
 
 The  idea  behind  answering  these  questions  is  to  decide  whether  the  new  page  is  effective  enough  to  gather  new subscribers for the news portal. 
 We will perform the statistical analysis on the collected data to make the business decision.
+
+### Data Description
+
+The data contains the different data related to E-news Express. The detailed data dictionary is given below.
+
+### Data Dictionary
+1. user_id - This represents the user ID of the person visiting the website.
+
+2. group - This represents whether the user belongs to the first group (control) or the second group (treatment).
+
+3. landing_page - This represents whether the landing page is new or old.
+
+4. time_spent_on_the_page - This represents the time (in minutes) spent by the user on the landing page.
+
+5. converted - This represents whether the user gets converted to a subscriber of the news portal or not.
+
+6. language_preferred - This represents the language chosen by the user to view the landing page.
+
+Please <a href ="https://github.com/Sh0hidul/business_statistics_project_Enews/blob/main/ENews_Express_business_statistics_project.ipynb">click here</a> to see the details of the code.
